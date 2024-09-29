@@ -1,0 +1,4 @@
+package com.example.subject_management.repository;
+public interface SubjectRepository {
+
+}
